@@ -1,3 +1,3 @@
 # Generative Deep Learning with Pytorch
 
-Going through the exercizes in Generative Deep Learning using pytorch.
+Going through the exercises in Generative Deep Learning using pytorch.
